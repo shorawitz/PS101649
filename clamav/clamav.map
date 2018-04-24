@@ -1,0 +1,9 @@
+RedHat:
+  pkgs:
+    - clamav-filesystem
+    - clamav
+  services: []
+Debian:
+  pkgs:
+    - clamav
+  services: []
